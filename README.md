@@ -12,6 +12,6 @@ The DISASTER REPORTING NETWORK is a non-profit company that uses data-driven dis
 * Leaflet: a JavaScript library for interactive maps
 * Mapbox API
 
-## Project 
+## Project & Results of Analysis
 
 ## Summary
