@@ -27,11 +27,11 @@ As for the map creation, it was interesting looking at the big picture of how th
 * Add the Pop-Up information
 * Add it to the map
 
-Adding the Major Earthquake data involved some new variables but the structure was almost the same.
+Adding the Major Earthquake data involved some new variables but the structure was almost the same.  This was followed by adding the legend colors via magnitudes and the tectonic plate fault lines being inserted.
 
-The challenges encountered when I did not get the desired output was mostly words being misspelled on my part.  I misspelled "techtonic" as opposed to the correct "tectonic" and where a ".mag" was supposed to be inserted, I placed a ".map" in error.  Nothing major but made a big difference in the end.  When all the puzzle pieces came together, the result was very detailed map.
+The challenges encountered when I did not get the desired outputs at various steps was mostly due to words being misspelled on my part.  I misspelled "techtonic" as opposed to the correct "tectonic" and where a ".mag" was supposed to be inserted, I placed a ".map" in error.  Nothing major but made a big difference in the end.  When all the puzzle pieces came together, the result was a very detailed map.
 
 ![MOD 13 CHALLENGE DEL I, II   III](https://user-images.githubusercontent.com/99851509/173939698-2e50067d-cc20-4710-a08c-7a4288d7f45b.png)
 
 ## Summary
-The actual earthquake map showed most eartquakes around the world occured on existing fault lines.  Fortunately there were no earthquakes for the periods being shown that were larger than a magnitude of 7.0.
+The actual earthquake map showed most earthquakes around the world occured on existing fault lines.  Fortunately there were no earthquakes for the periods being shown that were larger than a magnitude of 7.0.
